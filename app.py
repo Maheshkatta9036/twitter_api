@@ -46,7 +46,7 @@ def delete_tweet():  # DELETE request
 
 
 def get_info_by_username():
-    return client.get_user(username='dinesh_125')
+    return client.get_user(username='mahesh_123')
 
 
 
